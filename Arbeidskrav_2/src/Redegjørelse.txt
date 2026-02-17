@@ -1,0 +1,22 @@
+Arbeidskrav 2
+
+Redegjørelse og kilder:
+
+OpenAI. (2026, 8. februar). ChatGPT-samtale: React handleliste Oppgave https://chatgpt.com/share/69890c9b-01d4-8011-ac1d-45cad631ab3c
+
+OpenAI. (2026, 9. februar). ChatGPT-samtale: Handleliste app i React.
+https://chatgpt.com/share/698a4304-52fc-8011-8330-5929522064a4
+
+OpenAI. (2026, 9. februar). ChatGPT-samtale: Styling input piltaster
+https://chatgpt.com/c/698a15b8-422c-8332-b93a-427a6e7f793c
+
+OpenAI. (2026, 17. februar). ChatGPT-samtale: Sentrere prosjekt i React
+https://chatgpt.com/share/69944de3-7b30-8011-8915-3c5d9b59b9e3
+
+W3Schools. (u.å.). CSS placeholder selector. https://www.w3schools.com/cssref/sel_placeholder.php
+
+MakeComputerScienceGreatAgain. (2020, 18. juni). Understanding Flexbox: A comprehensive guide. Medium. https://medium.com/@MakeComputerScienceGreatAgain/understanding-flexbox-a-comprehensive-guide-992bcd5f04de
+
+W3Schools. (u.å.). JavaScript objects. https://www.w3schools.com/js/js_object_intro.asp
+
+React. (u.å.). Hooks – useState. https://legacy.reactjs.org/docs/hooks-state.html
