@@ -1,3 +1,12 @@
+body{
+  /* Her brukte jeg AI for å få plassert apppen midt på nettsiden*/
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+
+
 main{
   background-color: rgb(255, 255, 255);
   border-radius: 28px;
@@ -31,7 +40,11 @@ li{
    
   input{
     border-style: none;
+    background-color: #ffffff;
+    color:#ffffff;
   }
+
+
 }
 
 form {

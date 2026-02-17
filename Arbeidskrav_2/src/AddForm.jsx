@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import CategoryTitle from './CategoryTitle.jsx';
 
+//Her har jeg fått hjelp av AI til å lage skjemaet for å legge til nye varer
+
 export default function AddForm(props) {
     const [name, setName] = useState('');
     const [quantity, setQuantity] = useState('');
@@ -61,7 +63,7 @@ export default function AddForm(props) {
             min="1"
           />
     
-          {/* Knapp */}
+          {/* Legg til vare-knapp */}
           <button type="submit">Legg til vare</button>
     
           {/* Feilmelding */}

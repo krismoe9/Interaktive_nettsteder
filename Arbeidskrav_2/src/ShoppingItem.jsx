@@ -1,3 +1,5 @@
+//Her har jeg fått hjelp av AI til å lage komponenten som viser og oppdaterer en vare i handlelisten
+
 export default function ShoppingItem({ item, setShoppingList }) {
     function handleQuantityChange(e) {
       const newQuantity = Number(e.target.value);
@@ -26,7 +28,7 @@ export default function ShoppingItem({ item, setShoppingList }) {
               );
             }}
           />
-        {item.name} - 
+        {item.name}
         <input
             type="number"
             value={item.quantity}
