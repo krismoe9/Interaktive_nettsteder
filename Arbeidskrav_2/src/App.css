@@ -6,7 +6,6 @@ body{
 }
 
 
-
 main{
   background-color: rgb(255, 255, 255);
   border-radius: 28px;
@@ -53,6 +52,7 @@ form {
   gap: 8px;
 }
 
+/*Her har jeg fått hjelp av AI til å fikse border*/
 input {
   padding: 10px 8px;
   font-size: 18px;
@@ -66,14 +66,19 @@ input {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/*Her har jeg brukt W3Schools*/
 ::placeholder{
-  color:rgb(119, 119, 119)
+  color:rgb(119, 119, 119) 
 }
+
+
 button {
   padding: 12px 10px;
   font-size: 18px;
   cursor: pointer;
 }
+
+/*Kode fra AI for å fikse pilene i css, men bestemte meg for å ikke bruke koden*/
 
 /* Spinner-piler i Chrome, Safari, Edge 
 input::-webkit-inner-spin-button,
